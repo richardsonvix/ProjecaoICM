@@ -2,7 +2,7 @@
 
 Projeção para Igreja Cristã Maranata. Suporta os idiomas português (pt-BR), inglês (en) e italiano (it)
 
-Fork baseado na versão de https://github.com/CaDAut/projecaoICM.
+Fork baseado na versão de https://github.com/CaDAut/projecaoICM até o dia 10 de setembro de 2025.
 
 Painel                     |  Projeção
 :-------------------------:|:-------------------------:
