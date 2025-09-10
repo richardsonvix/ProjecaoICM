@@ -2,6 +2,8 @@
 
 Projeção para Igreja Cristã Maranata. Suporta os idiomas português (pt-BR), inglês (en) e italiano (it)
 
+Fork baseado na versão de ![](/https://github.com/CaDAut/projecaoICM).
+
 Painel                     |  Projeção
 :-------------------------:|:-------------------------:
 ![](/docs/assets/img/painel.gif)      |  ![](/docs/assets/img/projecao.gif)
